@@ -1,6 +1,1 @@
-azure is one of the cloud computing services
-sudo wget -O /etc/yum.repos.d/jenkins.repo \
-    https://pkg.jenkins.io/rpm-stable/jenkins.repo
-yum install Jenkins -y
-systemctl start Jenkins
-systemctl status Jenkins
+azure is one of the cloud computing service
